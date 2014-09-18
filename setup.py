@@ -19,7 +19,7 @@ setup(name='collective.mediaPage',
       author='David Jonas, Andre Gonclaves',
       author_email='david@intk.com, andre@intk.com',
       url='https://github.com/intk/collective.mediaPage',
-      download_url='https://github.com/intk/collective.mediaPage/tarball/0.1'
+      download_url='https://github.com/intk/collective.mediaPage/tarball/0.1',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective'],
