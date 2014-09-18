@@ -1,4 +1,4 @@
-# mediaPage
+# collective.mediaPage
 
 ## Introduction
 
